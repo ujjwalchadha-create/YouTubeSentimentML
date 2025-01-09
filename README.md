@@ -22,7 +22,7 @@ A sentiment analysis project designed to classify YouTube comments as positive, 
 - Install the required libraries using:
   pip install -r requirements.txt
 
-### Installatio
+### Installation
 
 1. Clone the repository:
   git clone https://github.com/<your-username>/YouTubeSentimentML.git
