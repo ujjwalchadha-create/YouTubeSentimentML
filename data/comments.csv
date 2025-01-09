@@ -1,0 +1,28 @@
+import pandas as pd
+
+# Sample data
+data = {
+    "comment": [
+        "I love this video!",
+        "This is terrible!",
+        "The content is okay.",
+        "Great job, keep it up!",
+        "I didn’t enjoy this video.",
+        "Amazing visuals and great narration.",
+        "Poor audio quality ruined the experience.",
+        "This is my favorite channel!",
+        "I found this very boring.",
+        "Excellent tutorial! Very helpful."
+    ],
+    "sentiment": [
+        "positive", "negative", "neutral", "positive", "negative",
+        "positive", "negative", "positive", "negative", "positive"
+    ]
+}
+
+# Create DataFrame
+df = pd.DataFrame(data)
+
+# Save to CSV
+df.to_csv("comments.csv", index=False)
+print("Dataset generated and saved as comments.csv")
