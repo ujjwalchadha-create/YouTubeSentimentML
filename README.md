@@ -71,6 +71,14 @@ Watch the video below to see the project in action:
 
 ---
 
+## Research Paper
+
+For a detailed review of sentiment analysis in code-mixed YouTube comments and the methodologies used in this project, refer to our research paper:
+
+📄 [An In-Depth Review of Sentiment Analysis in Hybrid Language Video Comments Using Deep Learning](docs/SA%20in%20code%20mixed%20videos%20comments%20using%20DL.pdf)
+
+---
+
 ## Future Roadmap
 
 1. Implement deep learning models (e.g., BERT or LSTM).
