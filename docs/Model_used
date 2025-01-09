@@ -1,0 +1,55 @@
+Models Used in YouTubeSentimentML
+
+Overview
+
+This document provides an overview of the machine learning models employed in the YouTubeSentimentML project, explaining their purpose and significance.
+
+1. Logistic Regression
+
+Purpose: A baseline model for binary and multi-class sentiment classification.
+
+Why Used:
+
+Fast and efficient for text classification tasks.
+
+Provides interpretability for understanding feature importance.
+
+2. Support Vector Machine (SVM)
+
+Purpose: Handles text classification tasks effectively with high-dimensional data.
+
+Why Used:
+
+Known for robustness with small-to-medium datasets.
+
+Effective in separating complex decision boundaries.
+
+3. Long Short-Term Memory (LSTM)
+
+Purpose: Captures sequential dependencies in text data.
+
+Why Used:
+
+Excellent for handling temporal or sequence data.
+
+Mitigates the vanishing gradient problem in RNNs.
+
+4. Random Forest
+
+Purpose: Ensemble-based classification model.
+
+Why Used:
+
+Provides robust predictions by combining multiple decision trees.
+
+Handles overfitting better than individual trees.
+
+5. Pretrained Models (BERT)
+
+Purpose: Advanced NLP model for contextual embeddings.
+
+Why Used:
+
+Captures word-level context and semantics.
+
+Delivers state-of-the-art results for sentiment analysis tasks.
