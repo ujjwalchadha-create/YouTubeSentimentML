@@ -9,3 +9,14 @@ langdetect
 tensorflow
 keras
 flask
+
+---
+
+##Install Libraries Locally
+
+1. Open a terminal or command prompt.
+2. Navigate to your project directory.
+3. Run the following command to install all dependencies:
+<br>
+```bash
+pip install -r requirements.txt
