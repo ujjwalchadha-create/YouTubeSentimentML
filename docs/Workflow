@@ -1,0 +1,25 @@
+Workflow for Using Models and Libraries
+
+1. Data Preprocessing
+
+Remove special characters and unwanted patterns using Regex.
+
+Tokenize and normalize text using NLTK.
+
+Use LangDetect to identify the language and handle code-mixed data.
+
+2. Feature Extraction
+
+Convert text data into numerical form using TF-IDF (Scikit-learn).
+
+Alternatively, use word embeddings via TensorFlow/Keras for deep learning models.
+
+3. Model Training and Evaluation
+
+Train the Logistic Regression, SVM, and LSTM models on the preprocessed data.
+
+Evaluate model performance using metrics like accuracy, precision, recall, and F1-score.
+
+4. Visualization
+
+Use Matplotlib and Seaborn to visualize sentiment distribution and model performance.
