@@ -1,0 +1,39 @@
+# Adding a Dataset
+
+## Overview
+This folder contains the dataset used for YouTube comment sentiment analysis. The file `comments.csv` includes sample data with two columns:
+- **comment**: The text of the YouTube comment.
+- **sentiment**: The sentiment label (`positive`, `negative`, or `neutral`).
+
+---
+
+## Adding Your Own Dataset
+
+### 1. File Format
+- Save your dataset as a `.csv` file.
+- Ensure it has the following columns:
+  - **comment**: The text of the YouTube comment.
+  - **sentiment**: The sentiment label.
+
+### 2. Upload Instructions
+1. Navigate to the `data/` folder in this repository.
+2. Click on **"Add file"** > **"Upload files"**.
+3. Select your `.csv` file and upload it.
+
+---
+
+## Example Dataset
+
+| comment                    | sentiment  |
+|----------------------------|------------|
+| I love this video!         | positive   |
+| This is terrible!          | negative   |
+| The content is okay.       | neutral    |
+| Great job, keep it up!     | positive   |
+| I didn’t enjoy this video. | negative   |
+
+---
+
+## Notes
+- Ensure the dataset is clean and formatted correctly.
+- Avoid adding unnecessary columns or incomplete rows.
