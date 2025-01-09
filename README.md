@@ -68,15 +68,6 @@ Watch the video below to see the project in action:
 
 [Click here to watch the demo](https://drive.google.com/file/d/1LQshEX_WuCr8XRjBfrxTlrBt6HoXc8VQ/view?usp=sharing)
 
-
----
-
-## Research Paper
-
-For a detailed review of sentiment analysis in code-mixed YouTube comments and the methodologies used in this project, refer to our research paper:
-
-📄 [An In-Depth Review of Sentiment Analysis in Hybrid Language Video Comments Using Deep Learning](docs/SA%20in%20code%20mixed%20videos%20comments%20using%20DL.pdf)
-
 ---
 
 ## Future Roadmap
