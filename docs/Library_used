@@ -1,0 +1,101 @@
+Libraries Used in YouTubeSentimentML
+
+Overview
+
+This document highlights the Python libraries employed in the YouTubeSentimentML project. Each library is discussed with its purpose and features for better comprehension.
+
+1. Natural Language Toolkit (NLTK)
+
+Purpose: Text preprocessing and tokenization.
+
+Features Used:
+
+Stopword removal.
+
+Tokenization of sentences into words.
+
+Text normalization (e.g., lowercasing, punctuation removal).
+
+2. Scikit-learn
+
+Purpose: Model building and evaluation.
+
+Features Used:
+
+TF-IDF Vectorizer: Converts text data into numerical features.
+
+Classification models like Logistic Regression and SVM (Support Vector Machines).
+
+Performance metrics (e.g., precision, recall, F1-score).
+
+3. Pandas
+
+Purpose: Data manipulation and cleaning.
+
+Features Used:
+
+Reading the YouTube comments dataset (CSV format).
+
+Handling missing values and filtering rows.
+
+4. NumPy
+
+Purpose: Numerical operations.
+
+Features Used:
+
+Array manipulations for efficient computations.
+
+5. Matplotlib & Seaborn
+
+Purpose: Data visualization.
+
+Features Used:
+
+Bar charts for sentiment distribution.
+
+Heatmaps for model performance.
+
+6. TextBlob
+
+Purpose: Sentiment polarity computation.
+
+Features Used:
+
+Quick sentiment analysis for baseline comparison.
+
+7. TensorFlow/Keras
+
+Purpose: Building deep learning models.
+
+Features Used:
+
+Embedding layers for text vectorization.
+
+LSTM (Long Short-Term Memory) layers for handling sequence data.
+
+Model training and evaluation.
+
+8. LangDetect
+
+Purpose: Language detection.
+
+Features Used:
+
+Identifying the primary language of YouTube comments to manage code-mixed data effectively.
+
+9. Regex (re)
+
+Purpose: Text cleaning.
+
+Features Used:
+
+Removing special characters, emojis, and unwanted patterns.
+
+10. Flask
+
+Purpose: Web deployment (optional feature for showcasing sentiment analysis).
+
+Features Used:
+
+Creating APIs for sentiment analysis.
