@@ -1,8 +1,7 @@
 import pandas as pd
 
 # Sample data
-data = {
-    "comment": [
+data = { "comment": [
         "I love this video!",
         "This is terrible!",
         "The content is okay.",
