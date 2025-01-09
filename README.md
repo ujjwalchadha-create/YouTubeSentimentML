@@ -64,9 +64,10 @@ YouTubeSentimentML/
 
 ## Demo
 
-Video Demo
-<br>
-Click to Watch the Demo Video
+Watch the video below to see the project in action:
+
+[Click here to watch the demo](https://drive.google.com/file/d/1LQshEX_WuCr8XRjBfrxTlrBt6HoXc8VQ/view?usp=sharing)
+
 
 ---
 
