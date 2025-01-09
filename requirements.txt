@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+scikit-learn
+textblob
+matplotlib
+seaborn
+langdetect
+tensorflow
+keras
+flask
